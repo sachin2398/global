@@ -1,0 +1,2 @@
+# global
+full-stack-project
