@@ -13,7 +13,7 @@ const Navbar = () => {
   };
 
   const links = [
-    { path: '/', title: 'Home' },
+    { path: '/home', title: 'Home' },
     { path: '/signup', title: 'Signup' },
     { path: '/login', title: isLoggedIn ? 'Logout' : 'Login' }, // Conditional label for login/logout link
     { path: '/product', title: 'Product' },
