@@ -7,7 +7,7 @@ The application is deployed and accessible [here](https://turnover-global-fr.ver
 
 
 ## Video Demo
-[![Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Video Demo](https://drive.google.com/file/d/1ZM0TpFRbPFkko8rwuJB5uzKHUre_zNDJ/view?usp=sharing)
 
 ## Overview
 This project is a frontend application developed using React and styled with Figma design. It serves as a user interface for browsing product categories. The application fetches data from the Faki Store API to display products. It utilizes Vite for project setup and bundling, React for building the UI components, React Icons for iconography, and React Router DOM for navigation.
